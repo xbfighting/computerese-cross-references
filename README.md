@@ -670,6 +670,7 @@
 + Replace Type Code with Subclass，以子类取代类型码<sup>1</sup>
 + reporting，报表
 + Repository，存储库；仓储；仓库
++ Represents, 代表
 + REpresentational State Transfer，表述性状态转移、表征性状态传输（REST）
 + request pipeline，请求管道
 + Requirements Churn，需求波动
